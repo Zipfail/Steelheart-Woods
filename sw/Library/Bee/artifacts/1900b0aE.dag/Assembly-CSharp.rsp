@@ -425,6 +425,7 @@
 "Assets/work/skript/player/baz/pl_move.cs"
 "Assets/work/skript/player/baz/pl_player.cs"
 "Assets/work/skript/tex/FPS.cs"
+"Assets/work/skript/tex/time.cs"
 -langversion:9.0
 /deterministic
 /optimize+
