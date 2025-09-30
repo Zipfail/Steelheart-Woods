@@ -424,6 +424,7 @@
 "Assets/TutorialInfo/Scripts/Readme.cs"
 "Assets/work/skript/player/baz/pl_move.cs"
 "Assets/work/skript/player/baz/pl_player.cs"
+"Assets/work/skript/tex/events.cs"
 "Assets/work/skript/tex/FPS.cs"
 "Assets/work/skript/tex/sleap.cs"
 "Assets/work/skript/tex/time.cs"

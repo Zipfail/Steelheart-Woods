@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\player\\baz\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\baz\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steelheart-woods\\sw\\assets\\work\\skript\\tex\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steelheart-woods\\sw\\assets\\work\\skript\\tex\\sleap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\tex\\sleap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\sleap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steelheart-woods\\sw\\assets\\work\\skript\\tex\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\tex\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steelheart-woods\\sw\\assets\\work\\skript\\player\\baz\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\baz\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\tex\\fps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "events.cs",
+              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\events.cs",
+              "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\events.cs",
+              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\events.cs",
+              "RelativeToolTip": "Assets\\work\\skript\\tex\\events.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:53:13.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +61,7 @@
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\sleap.cs",
               "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\sleap.cs",
               "RelativeToolTip": "Assets\\work\\skript\\tex\\sleap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T20:09:25.38Z",
               "EditorCaption": ""
@@ -57,14 +74,14 @@
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\time.cs",
               "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\time.cs",
               "RelativeToolTip": "Assets\\work\\skript\\tex\\time.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T17:56:27.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "pl_player.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\baz\\pl_player.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\baz\\pl_player.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "pl_move.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\baz\\pl_move.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\baz\\pl_move.cs",
@@ -85,12 +102,11 @@
               "RelativeToolTip": "Assets\\work\\skript\\player\\baz\\pl_move.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAwwEAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:32:29.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T16:32:29.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FPS.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\FPS.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\FPS.cs",
@@ -98,8 +114,7 @@
               "RelativeToolTip": "Assets\\work\\skript\\tex\\FPS.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:32:12.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-28T16:32:12.981Z"
             }
           ]
         }
