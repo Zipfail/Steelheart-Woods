@@ -6,6 +6,8 @@ TagManager:
   tags:
   - bad
   - UP
+  - term
+  - dital
   layers:
   - Default
   - TransparentFX

@@ -4,7 +4,7 @@ public class PicUp : MonoBehaviour
 {
     [SerializeField] private GameObject camera;
     [SerializeField] private float distance = 15f;
-    private GameObject currentWeapon;
+    public GameObject currentWeapon;
     [SerializeField] private Transform Pic_vexctor;
     private bool canPickUp;
 

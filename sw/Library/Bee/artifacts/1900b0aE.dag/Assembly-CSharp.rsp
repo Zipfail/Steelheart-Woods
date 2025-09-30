@@ -428,6 +428,7 @@
 "Assets/work/skript/tex/events.cs"
 "Assets/work/skript/tex/FPS.cs"
 "Assets/work/skript/tex/sleap.cs"
+"Assets/work/skript/tex/terminal.cs"
 "Assets/work/skript/tex/time.cs"
 -langversion:9.0
 /deterministic

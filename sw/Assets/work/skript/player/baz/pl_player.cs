@@ -5,10 +5,13 @@ public class pl_player : MonoBehaviour
 {
     [SerializeField] private Transform camer;
     [SerializeField] private float distanse_Hit;
+    [SerializeField] private PicUp pic;
     public string raycast_tag;
 
     private bool Input_E;
     private bool Interakt;
+
+    private int metal_ditals = 1;
     void Start()
     {
         
@@ -32,6 +35,27 @@ public class pl_player : MonoBehaviour
                 case "bad":
                     Interakt = true;
                     if (Input_E)hit.transform.GetComponent<sleap>().sleap_bed();
+                    break;
+                case "dital":
+                    Interakt = true;
+                    if (Input_E)
+                    {
+                        Destroy(hit.transform.gameObject);
+                        metal_ditals++;
+                    }
+
+                    break;
+                case "term":
+                    Interakt = true;
+                    //print("f");
+                    if (pic.currentWeapon != null)
+                    {
+                        if (Input_E && metal_ditals > 0 && pic.currentWeapon.transform.name == "ремонтный набор")
+                        {
+                            hit.transform.GetComponent<terminal>().regen_term();
+                            metal_ditals--;
+                        }
+                    }
                     break;
             }
 
