@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\tex\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\tex\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\player\\midle\\baz_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\midle\\baz_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steelheart-woods\\sw\\assets\\work\\skript\\player\\baz\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\baz\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\player\\midle\\picup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\midle\\picup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\player\\baz\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\baz\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\steelheart-woods\\sw\\assets\\work\\skript\\tex\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\player\\midle\\picup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\midle\\picup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\tex\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\sleap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\tex\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\tex\\fps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\fps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\assets\\work\\skript\\player\\baz\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B0282DA-6F5A-F358-E282-F6FBD559AECF}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\baz\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,19 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "baz_UI.cs",
+              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\midle\\baz_UI.cs",
+              "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\midle\\baz_UI.cs",
+              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\midle\\baz_UI.cs",
+              "RelativeToolTip": "Assets\\work\\skript\\player\\midle\\baz_UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:11:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "terminal.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\terminal.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\terminal.cs",
               "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\terminal.cs",
               "RelativeToolTip": "Assets\\work\\skript\\tex\\terminal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T18:42:51.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PicUp.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\midle\\PicUp.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\midle\\PicUp.cs",
@@ -71,12 +88,11 @@
               "RelativeToolTip": "Assets\\work\\skript\\player\\midle\\PicUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T17:26:59.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T17:26:59.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "events.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\events.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\events.cs",
@@ -88,20 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "pl_player.cs",
-              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\baz\\pl_player.cs",
-              "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\baz\\pl_player.cs",
-              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\baz\\pl_player.cs",
-              "RelativeToolTip": "Assets\\work\\skript\\player\\baz\\pl_player.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:32:34.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "sleap.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\sleap.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\sleap.cs",
@@ -113,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "time.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\time.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\time.cs",
@@ -121,23 +124,38 @@
               "RelativeToolTip": "Assets\\work\\skript\\tex\\time.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T17:56:27.747Z"
+              "WhenOpened": "2025-09-28T17:56:27.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "pl_player.cs",
+              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\baz\\pl_player.cs",
+              "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\baz\\pl_player.cs",
+              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\baz\\pl_player.cs",
+              "RelativeToolTip": "Assets\\work\\skript\\player\\baz\\pl_player.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:32:34.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "pl_move.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\baz\\pl_move.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\baz\\pl_move.cs",
               "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\player\\baz\\pl_move.cs",
               "RelativeToolTip": "Assets\\work\\skript\\player\\baz\\pl_move.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwEAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T16:32:29.494Z"
+              "WhenOpened": "2025-09-28T16:32:29.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "FPS.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Steelheart-Woods\\sw\\Assets\\work\\skript\\tex\\FPS.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\FPS.cs",

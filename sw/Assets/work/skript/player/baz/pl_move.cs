@@ -2,12 +2,17 @@ using UnityEngine;
 
 public class pl_move : MonoBehaviour
 {
+
+    [SerializeField] private baz_UI baz_UI;
+
+
     [SerializeField] private float jumpPower = 3.0f;
     [SerializeField] private float _speedRun;
     [SerializeField] private float _speedWalk;
     [SerializeField] private float mouseSens = 100.0f;
     private float xRotation = 0f;
     [SerializeField] private Transform camer;
+    
 
     //private float gravity = 9.81f;
     [SerializeField] private float gravityMultiplier = 3.0f;
@@ -90,20 +95,37 @@ public class pl_move : MonoBehaviour
         controler.height = canSit ? 1f : 2f;
     }
 
-    public void walk_off()
+    
+    public void pl_control(bool sost)
+    {
+        if (sost)
+        {
+            walk_on();
+            cursoroff();
+            baz_UI.menuon();
+        }
+        else {
+            walk_off();
+            cursoron();
+            baz_UI.menuoff();
+        }
+    }
+    
+    
+    private void walk_off()
     {
         walk_bool = false;
     }
-    public void walk_on()
+    private void walk_on()
     {
         walk_bool = true;
     }
-    public void cursoroff()
+    private void cursoroff()
     {
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
     }
-    public void cursoron()
+    private void cursoron()
     {
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;

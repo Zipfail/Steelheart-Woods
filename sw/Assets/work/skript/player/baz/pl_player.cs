@@ -3,9 +3,18 @@ using UnityEngine;
 
 public class pl_player : MonoBehaviour
 {
+    [SerializeField] private baz_UI baz_UI;
+
+    [SerializeField] private int xp;
+    [SerializeField] private int xp_max;
+
     [SerializeField] private Transform camer;
     [SerializeField] private float distanse_Hit;
     [SerializeField] private PicUp pic;
+
+    private bool term_bool = false;
+    [SerializeField] private GameObject term_obj;
+
     public string raycast_tag;
 
     private bool Input_E;
@@ -14,7 +23,7 @@ public class pl_player : MonoBehaviour
     private int metal_ditals = 1;
     void Start()
     {
-        
+        xp_max = xp;
     }
 
     // Update is called once per frame
@@ -57,8 +66,26 @@ public class pl_player : MonoBehaviour
                         }
                     }
                     break;
+
+                case "term_sacan":
+                    Interakt = true;
+                    if(Input_E)
+                    {
+                        term_bool = !term_bool;
+                        baz_UI.use_panel(term_obj, term_bool);
+                    }
+                    break;
+                
             }
 
+
+            baz_UI.info_player(xp,metal_ditals);
         }
+    }
+
+
+    public void xp_regen_max()
+    {
+        xp = xp_max;
     }
 }
